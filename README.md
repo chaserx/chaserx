@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Chase
 
-I like to build things especially if they're whimsical. I used to build tools for a cancer research laboratory 👨‍🔬, open government efforts 🏛️, and later at some small companies 👨‍💻. I now coach a team as they iterate on things at GitLab 👨‍💼. I still see myself as a builder, but I am fascinated by dynamic teams, and so I find myself in management.
+I like to build things especially if they're whimsical. I used to build tools for a [cancer research laboratory](http://www.uky.edu/~mwkilg0/) 👨‍🔬, [open government efforts](http://openlexington.org) 🏛️, and later at some small companies 👨‍💻. I now coach a team as they iterate on things at [GitLab](https://gitlab.com/) 👨‍💼. I see myself as a builder, but I am fascinated by dynamic teams, and so I find myself in management.
 
 <!--
 **chaserx/chaserx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
