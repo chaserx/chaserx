@@ -4,7 +4,7 @@ I like to design and build things. I've built tools for a [cancer research labor
 
 I used to see myself *only* as a builder 👷, but I got fascinated by dynamic teams (not just software teams) and found myself in engineering management for the better part of a decade, including leading a [team](https://handbook.gitlab.com/handbook/engineering/development/fulfillment/utilization/) at [GitLab](https://gitlab.com/) 🦊. Turns out you *can* come back from management, so now I'm an independent consulting engineer working on Rails apps, developer tooling, and GitHub migrations 🔧.
 
-I mostly work in **Ruby** and **Rails**, and I'm happiest when I solve problems, especially within a team.
+I mostly work in **Ruby** and **Rails**, and I'm happiest when I solve problems, especially within a team 🤝.
 
 <!--
 **chaserx/chaserx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
