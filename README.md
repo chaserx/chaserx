@@ -1,6 +1,10 @@
 ### Hi there 👋 I'm Chase
 
-I like to design and build things. I have built tools for a [cancer research laboratory](http://www.uky.edu/~mwkilg0/) 👨‍🔬, [open government efforts](https://github.com/openlexington) 🏛️, and later at some small companies 👨‍💻. Most recently, I am working as a consulting engineer leading software development at a few small companies. Before that led a [team](https://handbook.gitlab.com/handbook/engineering/development/fulfillment/utilization/) at [GitLab](https://gitlab.com/) 🦊. I used to see myself _only_ as a builder 👷, but I am fascinated by dynamic teams (not just software teams), and, as such, I found myself in management 👨‍💼. 
+I like to design and build things. I've built tools for a [cancer research laboratory](http://www.uky.edu/~mwkilg0/) 👨‍🔬, [open government efforts](https://github.com/openlexington) 🏛️, and a bunch of startups and small companies along the way 👨‍💻.
+
+I used to see myself *only* as a builder 👷, but I got fascinated by dynamic teams (not just software teams) and found myself in engineering management for the better part of a decade, including leading a [team](https://handbook.gitlab.com/handbook/engineering/development/fulfillment/utilization/) at [GitLab](https://gitlab.com/) 🦊. Turns out you *can* come back from management, so now I'm an independent consulting engineer working on Rails apps, developer tooling, and GitHub migrations 🔧.
+
+I mostly work in **Ruby** and **Rails**, and I'm happiest when I solve problems, especially within a team.
 
 <!--
 **chaserx/chaserx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
