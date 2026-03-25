@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Chase
 
-I like to design and build things. I used to build tools for a [cancer research laboratory](http://www.uky.edu/~mwkilg0/) 👨‍🔬, [open government efforts](https://github.com/openlexington) 🏛️, and later at some small companies 👨‍💻. Most recently, I led a [team](https://handbook.gitlab.com/handbook/engineering/development/fulfillment/utilization/) at [GitLab](https://gitlab.com/) 🦊. I used to see myself _only_ as a builder 👷, but I am fascinated by dynamic teams (not just software teams), and, as such, I find myself in management 👨‍💼. 
+I like to design and build things. I have built tools for a [cancer research laboratory](http://www.uky.edu/~mwkilg0/) 👨‍🔬, [open government efforts](https://github.com/openlexington) 🏛️, and later at some small companies 👨‍💻. Most recently, I am working as a consulting engineer leading software development at a few small companies. Before that led a [team](https://handbook.gitlab.com/handbook/engineering/development/fulfillment/utilization/) at [GitLab](https://gitlab.com/) 🦊. I used to see myself _only_ as a builder 👷, but I am fascinated by dynamic teams (not just software teams), and, as such, I found myself in management 👨‍💼. 
 
 <!--
 **chaserx/chaserx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
