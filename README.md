@@ -4,9 +4,7 @@ I like to design and build things. I've built tools for a [cancer research labor
 
 I used to see myself *only* as a builder 👷, but I got fascinated by dynamic teams (not just software teams) and found myself in engineering management for the better part of a decade, including leading a [team](https://handbook.gitlab.com/handbook/engineering/development/fulfillment/utilization/) at [GitLab](https://gitlab.com/) 🦊. Turns out you *can* come back from management, so now I'm an independent consulting engineer working on Rails apps, developer tooling, and GitHub migrations 🔧.
 
-While I have a bredth experience, I am most at home using [Ruby](https://github.com/chaserx?tab=repositories&q=&type=&language=ruby&sort=). 
-
-I'm happiest when solving problems, especially with a team 🤝.
+While I have a bredth experience, I am most at home using [Ruby](https://github.com/chaserx?tab=repositories&q=&type=&language=ruby&sort=).
 
 <!--
 **chaserx/chaserx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
